@@ -68,24 +68,14 @@ export default {
 
       this.markers = [
         {
-          lat: 21.1594627,
-          lng: 72.6822083,
-          label: "Surat",
+          lat: 23.633841,
+          lng: 89.066856,
+          label: "Jhenaidah",
         },
         {
-          lat: 23.0204978,
-          lng: 72.4396548,
-          label: "Ahmedabad",
-        },
-        {
-          lat: 22.2736308,
-          lng: 70.7512555,
-          label: "Rajkot",
-        },
-        {
-          lat: 21.6015,
-          lng: 71.2204,
-          label: "Amreli",
+          lat: 24.40349,
+          lng: 90.772301,
+          label: "Kishoreganj",
         },
       ];
     },
