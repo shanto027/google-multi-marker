@@ -36,7 +36,7 @@ export default {
   name: "GoogleMap",
   data() {
     return {
-      center: { lat: 45.508, lng: -73.587 },
+      center: { lat: 23.633841, lng: 89.066856 },
       markers: [],
       currentPlace: null,
       info_marker: null,
