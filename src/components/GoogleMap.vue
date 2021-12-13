@@ -40,7 +40,7 @@ export default {
       markers: [],
       currentPlace: null,
       info_marker: null,
-      infowindow: { lat: 21.1594627, lng: 72.6822083 },
+      infowindow: { lat: 23.633841, lng: 89.066856 },
       window_open: false,
     };
   },
